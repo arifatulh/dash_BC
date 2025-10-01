@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+altair
+gspread
+google-auth
+openpyxl
+streamlit-autorefresh
